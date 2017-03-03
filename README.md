@@ -1,2 +1,2 @@
 # Elementary-Arithmetic
-MASM x86 Program implementing basic arithmetic.
+MASM Intel x86 Assembler code implementing basic arithmetic.
